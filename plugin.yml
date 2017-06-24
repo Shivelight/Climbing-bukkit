@@ -1,0 +1,12 @@
+name: Climbing
+version: 0.1.0
+description: Climbing Plugin
+author: CWKFR
+webiste: 'https://github.com/cwkfr/Climbing'
+main: io.github.cwkfr.climbing.Climbing
+commands:
+  climb:
+    description: Main Command
+permission:
+  climbing.admin:
+    default: op
